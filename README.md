@@ -1,4 +1,4 @@
-# SpringBoot-Project-MEGABOX
+# Spring-Project-Obri
 스프링 + JSP 파싱_ 음악 구인 구직 커뮤니티 사이트
 
 
